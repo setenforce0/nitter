@@ -1,5 +1,7 @@
 # Nitter (WIP)
 
+Some text to test PR support in Travis
+
 A free and open source alternative Twitter front-end focused on privacy. \
 Inspired by the [invidio.us](https://github.com/omarroth/invidious) project.
 
